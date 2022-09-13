@@ -1,5 +1,5 @@
 
-## Boas vindas ao meu perfil 😎
+## Boas vindas ao meu perfil 😁
 
 Meu nome é Bruno Caetano de Brito e sou completamente apaixonado por tecnologia e educação, atuando nessas áreas desde 2009 😎
 
@@ -20,6 +20,8 @@ Faço pesquisa, produzo conteúdo para internet e ministro seminários para pess
 <!-- TECNOLOGIAS -->
 <div align="center">
 
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/-csharp-black?style=flat-square&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)

@@ -3,7 +3,7 @@
 
 Meu nome é Bruno Caetano de Brito e sou completamente apaixonado por tecnologia e educação, atuando nessas áreas desde 2009 😎
 
-Eu sou Bruno Brito, faço pesquisa, produzo conteúdo para internet e ministro seminários para pessoas curiosas e inteligentes, que querem expandir seu conhecimento com soluções em tecnologia da informação e também através de vídeos no meu canal do YouTube ⚡.
+Faço pesquisa, produzo conteúdo para internet e ministro seminários para pessoas curiosas e inteligentes, que querem expandir seu conhecimento com soluções em tecnologia da informação e também através de vídeos no meu canal do YouTube ⚡.
 
 <br>
 

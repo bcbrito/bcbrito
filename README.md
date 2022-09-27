@@ -7,6 +7,15 @@ Faço pesquisa, produzo conteúdo para internet e ministro seminários para pess
 
 <br>
 
+<!-- REDES SOCIAIS -->
+<div align="center">
+  <a href="https://bit.ly/bcbrito" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/bcbrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-caetano-de-brito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+<br>
+
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bcbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -46,15 +55,6 @@ Faço pesquisa, produzo conteúdo para internet e ministro seminários para pess
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-</div>
-
-<!-- REDES SOCIAIS -->
-<div align="center">
-  <a href="https://bit.ly/bcbrito" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/bcbrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-caetano-de-brito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-  ![](https://visitor-badge.glitch.me/badge?page_id=bcbrito)
 </div>
 
 

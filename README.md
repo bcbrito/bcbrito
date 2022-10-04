@@ -26,9 +26,10 @@ Faço pesquisa, produzo conteúdo para internet e ministro seminários para pess
 
 <br>
 
-<!--
 
 <!-- TECNOLOGIAS -->
+
+<!--
 <div align="left">
 
 ![C#](https://img.shields.io/badge/-csharp-black?style=flat-square&logo=csharp)

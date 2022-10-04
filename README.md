@@ -26,6 +26,8 @@ Faço pesquisa, produzo conteúdo para internet e ministro seminários para pess
 
 <br>
 
+<!--
+
 <!-- TECNOLOGIAS -->
 <div align="left">
 
@@ -58,7 +60,7 @@ Faço pesquisa, produzo conteúdo para internet e ministro seminários para pess
 </div>
 
 
-<!--
+
 **bcbrito/bcbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

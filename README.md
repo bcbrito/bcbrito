@@ -18,8 +18,8 @@ Faço pesquisa, produzo conteúdo para internet e ministro seminários para pess
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bcbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcbrito&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bcbrito&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcbrito&layout=compact&theme=dark"/>
 </div>
 
 <br>

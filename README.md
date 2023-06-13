@@ -20,8 +20,6 @@ Faço pesquisa, produzo conteúdo para internet e ministro seminários para pess
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bcbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcbrito&layout=compact&langs_count=10&theme=dark"/>
-
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
 <br>
@@ -29,7 +27,7 @@ Faço pesquisa, produzo conteúdo para internet e ministro seminários para pess
 
 <!-- TECNOLOGIAS -->
 
-<!--
+
 <div align="left">
 
 ![C#](https://img.shields.io/badge/-csharp-black?style=flat-square&logo=csharp)
@@ -59,19 +57,3 @@ Faço pesquisa, produzo conteúdo para internet e ministro seminários para pess
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
-
-
-
-**bcbrito/bcbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -25,7 +25,7 @@ Faço pesquisa, produzo conteúdo para internet e ministro seminários para pess
 <br>
 
 
-<!-- TECNOLOGIAS -->
+<!-- TECNOLOGIAS 
 
 
 <div align="left">
@@ -57,3 +57,5 @@ Faço pesquisa, produzo conteúdo para internet e ministro seminários para pess
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+-->
